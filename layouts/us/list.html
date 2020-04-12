@@ -1,0 +1,30 @@
+{{ define "content" }}
+
+<main class="container">
+    <div class="row">
+        <div class="col-12 mb-4">
+            <h2>{{.Title}}</h2>
+        </div>
+    </div>
+    {{ range .Pages }}
+        <div class="row">
+            <div class="col-12">
+                <div class="card mb-3">
+                    <div class="row no-gutters">
+                        <div class="col-md-4">
+                            <img src="{{ .Params.image }}" class="card-img">
+                        </div>
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title">{{ .Params.name }}</h5>
+                                <p class="card-text">{{ .Content }}</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    {{ end }}
+</main>
+
+{{ end }}

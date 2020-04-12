@@ -1,0 +1,22 @@
+baseURL = "http://cleaning-clowns.nl"
+languageCode = "nl-NL"
+title = "De Cleaning Clowns"
+publishDir = "docs"
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[menu]
+    [[menu.main]]
+        identifier = "home"
+        name = "Home"
+        url = "/"
+        weight = 100
+    [[menu.main]]
+        identifier = "us"
+        name = "Wie zijn wij"
+        url = "/us/"
+        weight = 110
+    [[menu.main]]
+        identifier = "stories"
+        name = "Success stories"
+        url = "/stories/"
+        weight = 120
