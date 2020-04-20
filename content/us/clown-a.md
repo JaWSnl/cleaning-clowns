@@ -1,7 +1,24 @@
 
 ---
-name: Clown A
-image: "/images/clown-a.jpeg"
+name: Ditte & Datte
+image: "/images/clown-ditte-en-datte-small.jpg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Ditte ben ik.  
+Datte trouwens ook.  
+Ditte is heel druk en praat veel.  
+Die daar, Datte, die is een beetje verlegen, dat denk je al gauw…  
+Maar pas op, Datte is best ondeugend en kan heel uitbundig zijn.  
+Ditte en Datte; eigenlijk ben ik van alles Watte.  
+Ik ben een fladderend vlindertje dat graag mensen blij maakt.  
+Ik ben een glimlach, een traan.  
+Een liedje, een hand op het raam.  
+Een knikje.  
+Ik speel in het moment met wat er al is.  
+Wat is er nog nodig? Iets kleins of iets groots, uitbundigheid of juist ingetogenheid?  
+Mensen zien genieten van wat ik breng, dátte (en ditte) is voor mij puur geluk!  
+Graag sta ik voor jullie klaar, in al mijn gedaantes.  
+
+Ik speel in de omgeving van Eindhoven.  
+Je kunt me bereiken en boeken via een pb op facebook, zoek me dan op  
+Desiré Festen (alias Ditte en Datte van alles Watte) 
