@@ -12,4 +12,4 @@ Vermaken en entertainen zit mij dus in het bloed. Dat doe ik al ruim 20 jaar. Ik
 
 Ik woon in Ede en ben in de weekenden beschikbaar.
 
-Je kunt me bereiken via eenberichtaanclownperd@gmail.com of bel me maar op 0655128931.
+Je kunt me bereiken via eenberichtaanclownperd@gmail.com of bel me maar op *06 - 55 12 89 31*.
