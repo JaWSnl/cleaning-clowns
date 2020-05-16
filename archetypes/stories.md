@@ -1,4 +1,6 @@
 +++ 
 title = ""
-description = ""
+image = ""
+date = ""
+publishdate = ""
 +++

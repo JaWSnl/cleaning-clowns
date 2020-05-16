@@ -6,8 +6,17 @@
             <h2>{{.Title}}</h2>
         </div>
     </div>
-    {{ range .Pages }}
-        <div class="row">
+    {{ range .Pages.ByPublishDate.Reverse }}
+        <div class="media">
+            <div class="media-body">
+                <h5 class="mt-0">{{ .Params.title }}</h5>
+                {{ .Content }}
+                <small class="text-muted">{{.Date.Format "02-01-2006"}}</small>
+            </div>
+            <img src="{{ .Params.image }}" class="align-self-center mr-3" alt="...">
+        </div>
+        <hr/>
+        {{/*  <div class="row">
             <div class="col-12">
                 <div class="card mb-3">
                     <div class="row no-gutters">
@@ -15,6 +24,7 @@
                             <div class="card-body">
                                 <h5 class="card-title">{{ .Params.title }}</h5>
                                 <p class="card-text">{{ .Content }}</p>
+                                <small class="text-muted">{{.Date.Format "02-01-2006"}}</small>
                             </div>
                         </div>
                         <div class="col-md-4">
@@ -23,7 +33,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div>  */}}
     {{ end }}
 </main>
 
