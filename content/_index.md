@@ -17,7 +17,7 @@ Medeclown Edith bedacht de naam Cleaning Clowns, meteen een pakkende naam voor o
 
 Wie mogen we blij maken?
 
-<div class="text-center">(Geschreven door Pauline Schuurmans)</div>
+<div class="text-center">(Geschreven door Pauline Schuurman)</div>
 
 <hr/>
 <br/>
