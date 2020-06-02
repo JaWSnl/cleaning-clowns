@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://cleaning-clowns.nl/stories/20200321/</loc>
-    <lastmod>2020-05-16T00:00:00+00:00</lastmod>
+    <loc>http://cleaning-clowns.nl/stories/20200506/</loc>
+    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://cleaning-clowns.nl/</loc>
+    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cleaning-clowns.nl/stories/20200321/</loc>
     <lastmod>2020-05-16T00:00:00+00:00</lastmod>
   </url>
   
