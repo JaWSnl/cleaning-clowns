@@ -1,6 +1,5 @@
 ---
 title: Het ontstaan van de Cleaning Clowns
-emailAddress: "info@cleaning-clowns.nl"
 ---
 
 Coronavirus, quarantaine… De School voor Clown en Leven in Utrecht ging dicht. Geen clownsopleiding, geen lessen en dus niet meer spelen…
