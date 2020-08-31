@@ -4,6 +4,12 @@ name: Takkie
 image: "/images/clown-takkie.jpg"
 ---
 
+<div class="embed-responsive embed-responsive-16by9">
+  <video class="embed-responsive-item" controls>
+    <source src="/videos/takkie.mp4" type="video/mp4"></source>
+  </video>
+</div>
+<br/>
 Bijna 20 jaar geleden begon ik opeens Takkie te heten. Misschien werd mijn naam wel ingefluisterd door de wind die door de bomen speelde. Misschien ook niet… Magie is magie en laat zich niet verklaren.
 
 Takkie werd ik en was ik een tijdje. En nu is Takkie uit haar lange lánge wintertukkie ontwaakt… een tikkie onwennig.
