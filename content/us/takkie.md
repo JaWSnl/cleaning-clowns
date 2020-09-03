@@ -4,12 +4,6 @@ name: Takkie
 image: "/images/clown-takkie.jpg"
 ---
 
-<div class="embed-responsive embed-responsive-16by9">
-  <video class="embed-responsive-item" controls>
-    <source src="/videos/takkie.mp4" type="video/mp4"></source>
-  </video>
-</div>
-<br/>
 Bijna 20 jaar geleden begon ik opeens Takkie te heten. Misschien werd mijn naam wel ingefluisterd door de wind die door de bomen speelde. Misschien ook niet… Magie is magie en laat zich niet verklaren.
 
 Takkie werd ik en was ik een tijdje. En nu is Takkie uit haar lange lánge wintertukkie ontwaakt… een tikkie onwennig.
@@ -22,6 +16,6 @@ Dat doe ik graag voor volwassenen en kinderen met een beperking, en ouderen met 
 
 Je kunt mij vinden in de omgeving Dordrecht.
 
-Wil je meer informatie, dan kun je mij bereiken via clowntakkie@gmail.com.
+Wil je meer informatie, mail me dan op <a href="mailto:clowntakkie@gmail.com">clowntakkie@gmail.com</a>, of kijk op <a href="https://www.facebook.com/clowntakkie" target="_blank">facebook.com/clowntakkie</a>.
 
 Liefs Takkie
