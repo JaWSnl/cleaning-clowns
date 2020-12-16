@@ -5,11 +5,7 @@
     <link>http://cleaning-clowns.nl/us/</link>
     <description>Recent content in Wie zijn wij on De Cleaning Clowns</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>nl-NL</language>
-    
-	<atom:link href="http://cleaning-clowns.nl/us/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>nl-NL</language><atom:link href="http://cleaning-clowns.nl/us/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>http://cleaning-clowns.nl/us/ditte-en-datte/</link>

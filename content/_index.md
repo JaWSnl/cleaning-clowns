@@ -16,8 +16,7 @@ Klasgenoot Edith bedacht de naam Cleaning Clowns en dat was meteen een pakkende 
 
 Wie mogen we blij maken?
 
-<div class="text-center">(Geschreven door Pauline Schuurman)</div>
-
+<div class="text-center">Een initiatief van Desiré Festen, tekst door Pauline Schuurman</div>
 <hr/>
 <br/>
 
