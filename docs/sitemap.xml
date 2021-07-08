@@ -1,61 +1,107 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
     <loc>http://cleaning-clowns.nl/</loc>
     <lastmod>2021-03-04T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://cleaning-clowns.nl/stories/20210304/</loc>
     <lastmod>2021-03-04T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://cleaning-clowns.nl/stories/20201116/</loc>
     <lastmod>2020-11-16T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://cleaning-clowns.nl/stories/20201009/</loc>
     <lastmod>2020-10-07T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://cleaning-clowns.nl/stories/20200826/</loc>
     <lastmod>2020-08-26T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://cleaning-clowns.nl/stories/20200615/</loc>
     <lastmod>2020-06-16T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://cleaning-clowns.nl/stories/20200506/</loc>
     <lastmod>2020-05-26T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://cleaning-clowns.nl/stories/20200521/</loc>
     <lastmod>2020-05-21T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://cleaning-clowns.nl/stories/20200321/</loc>
     <lastmod>2020-05-16T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://cleaning-clowns.nl/stories/20200516/</loc>
     <lastmod>2020-05-16T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://cleaning-clowns.nl/stories/20200510/</loc>
     <lastmod>2020-05-10T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://cleaning-clowns.nl/stories/</loc>
     <lastmod>2020-04-12T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://cleaning-clowns.nl/stories/20200328/</loc>
     <lastmod>2020-03-28T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://cleaning-clowns.nl/stories/20200322/</loc>
     <lastmod>2020-03-22T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://cleaning-clowns.nl/us/ditte-en-datte/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://cleaning-clowns.nl/us/judels/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://cleaning-clowns.nl/us/meloentje/</loc>
-  </url><url>
+  </url>
+  
+  <url>
+    <loc>http://cleaning-clowns.nl/us/okeetje/</loc>
+  </url>
+  
+  <url>
     <loc>http://cleaning-clowns.nl/us/perd/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://cleaning-clowns.nl/us/sis/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://cleaning-clowns.nl/us/takkie/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>http://cleaning-clowns.nl/us/</loc>
   </url>
+  
 </urlset>
