@@ -2,7 +2,7 @@ baseURL = "http://cleaning-clowns.nl"
 languageCode = "nl-NL"
 title = "De Cleaning Clowns"
 publishDir = "docs"
-disableKinds = ["taxonomy", "taxonomyTerm"]
+disableKinds = ["taxonomy"]
 
 [markup.goldmark.renderer]
 unsafe= true
